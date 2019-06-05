@@ -1,10 +1,9 @@
 <?php
 /**
 * Plugin Name: Taproot Blocks
-* Plugin URI: https://www.yourwebsiteurl.com/
 * Description: Adds the reusable blocks page to the admin menu and creates a shortcode for adding reusable blocks outside the content area.
 * Version: 1.0
-* Author: Sky Shabatura <theme@sky.camp>
+* Author: Sky Shabatura
 * Author URI: https://github.com/skyshab
 **/
 
